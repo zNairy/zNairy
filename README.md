@@ -1,4 +1,4 @@
-<h1 align="center">Hey dude, I'm zNairy</h1>
+<h1 align="center">Hey dude, how's it going?</h1>
 <h3 align="center">"Get ready to Hack The Planet!"</h3>
 
 <h1 align='center'><img src='./htp.gif'></h1>
