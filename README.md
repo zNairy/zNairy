@@ -1,7 +1,9 @@
 <h1 align="center">Hey dude, how's it going?</h1>
 <h3 align="center">"Get ready to Hack The Planet!"</h3>
 
-<h1 align='center'><img src='htp.gif'></h1>
+<p align="center">
+  <img src="htp.gif" alt="animated" />
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
